@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-13T04:09:10.323Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="BXl7sBsmumkqykIvcjkH" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-13T04:09:36.230Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="ADzqp98RnxdRQzW9kDv2" version="12.5.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1125" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
             <mxPoint x="594" y="290" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u1iQbS3z8Yp-li9zfZ41-27" value="5.configure reload" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="u1iQbS3z8Yp-li9zfZ41-26">
+        <mxCell id="u1iQbS3z8Yp-li9zfZ41-27" value="6.configure reload" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="u1iQbS3z8Yp-li9zfZ41-26">
           <mxGeometry x="0.5407" y="1" relative="1" as="geometry">
             <mxPoint x="34" y="9" as="offset"/>
           </mxGeometry>
@@ -91,7 +91,7 @@
             <mxPoint x="900" y="260" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u1iQbS3z8Yp-li9zfZ41-39" value="call flexvolume driver" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="u1iQbS3z8Yp-li9zfZ41-38">
+        <mxCell id="u1iQbS3z8Yp-li9zfZ41-39" value="3.call flexvolume driver" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="u1iQbS3z8Yp-li9zfZ41-38">
           <mxGeometry x="0.3911" y="-1" relative="1" as="geometry">
             <mxPoint x="-23.33" y="8.84" as="offset"/>
           </mxGeometry>
@@ -102,12 +102,12 @@
             <mxPoint x="725" y="240.15999999999997" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u1iQbS3z8Yp-li9zfZ41-41" value="mount log volume to dir&lt;br&gt;under fluentd collected path" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="u1iQbS3z8Yp-li9zfZ41-40">
+        <mxCell id="u1iQbS3z8Yp-li9zfZ41-41" value="4.mount log volume to dir&lt;br&gt;under fluentd collected path" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="u1iQbS3z8Yp-li9zfZ41-40">
           <mxGeometry x="0.3911" y="-1" relative="1" as="geometry">
             <mxPoint x="-57.5" y="20.88" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u1iQbS3z8Yp-li9zfZ41-19" value="4.generate configure&lt;br&gt;when add custom log volume format" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.25;entryY=0.187;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="u1iQbS3z8Yp-li9zfZ41-10">
+        <mxCell id="u1iQbS3z8Yp-li9zfZ41-19" value="5.generate configure&lt;br&gt;when add custom log volume format" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.25;entryY=0.187;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="u1iQbS3z8Yp-li9zfZ41-10">
           <mxGeometry x="0.0811" y="-17" relative="1" as="geometry">
             <mxPoint x="700" y="303" as="sourcePoint"/>
             <mxPoint x="900" y="302" as="targetPoint"/>
