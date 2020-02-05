@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-05T11:13:23.162Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="kPQpDdFmwDv-rZzjOsFh" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-05T11:44:59.476Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="AsPmhG_7e5nCaSu3x1lm" version="12.6.5" type="github">
   <diagram id="CEBkTKkAd9VMybs_fd6C" name="Page-1">
     <mxGraphModel dx="1373" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
         <mxCell id="VQfqHXgaRlEQjkRwhj_3-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="VQfqHXgaRlEQjkRwhj_3-10">
           <mxGeometry x="45" y="100" width="10" height="440" as="geometry"/>
         </mxCell>
-        <mxCell id="VQfqHXgaRlEQjkRwhj_3-12" value="1.configure alert rule" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="VQfqHXgaRlEQjkRwhj_3-11" target="VQfqHXgaRlEQjkRwhj_3-2">
+        <mxCell id="VQfqHXgaRlEQjkRwhj_3-12" value="1.configure metric alert" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="VQfqHXgaRlEQjkRwhj_3-11" target="VQfqHXgaRlEQjkRwhj_3-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="190" as="sourcePoint"/>
           </mxGeometry>
@@ -74,13 +74,10 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VQfqHXgaRlEQjkRwhj_3-19" value="3. get unhealth from component status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="VQfqHXgaRlEQjkRwhj_3-18">
+        <mxCell id="VQfqHXgaRlEQjkRwhj_3-19" value="3. add prometheus rule" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="VQfqHXgaRlEQjkRwhj_3-18">
           <mxGeometry x="-0.7227" y="-1" relative="1" as="geometry">
-            <mxPoint x="27" y="19" as="offset"/>
+            <mxPoint x="-50" y="29" as="offset"/>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="VQfqHXgaRlEQjkRwhj_3-20" value="2.generate configure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="293" y="227" width="130" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="VQfqHXgaRlEQjkRwhj_3-21" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.889;exitY=0.415;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VQfqHXgaRlEQjkRwhj_3-4" target="VQfqHXgaRlEQjkRwhj_3-6">
           <mxGeometry x="1" y="-176" relative="1" as="geometry">
@@ -93,9 +90,9 @@
             <mxPoint x="166" y="-117" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VQfqHXgaRlEQjkRwhj_3-22" value="4. call alertmanager API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="VQfqHXgaRlEQjkRwhj_3-21">
+        <mxCell id="VQfqHXgaRlEQjkRwhj_3-22" value="5. trigger alertmanager" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="VQfqHXgaRlEQjkRwhj_3-21">
           <mxGeometry x="-0.7227" y="-1" relative="1" as="geometry">
-            <mxPoint x="56" y="18" as="offset"/>
+            <mxPoint x="39.26" y="9" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="VQfqHXgaRlEQjkRwhj_3-23" value="" style="endArrow=classic;html=1;exitX=1.489;exitY=0.569;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VQfqHXgaRlEQjkRwhj_3-7">
@@ -105,9 +102,9 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VQfqHXgaRlEQjkRwhj_3-24" value="5. send alert to slack" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="VQfqHXgaRlEQjkRwhj_3-23">
+        <mxCell id="VQfqHXgaRlEQjkRwhj_3-24" value="6. send alert to slack" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="VQfqHXgaRlEQjkRwhj_3-23">
           <mxGeometry x="-0.3044" y="-1" relative="1" as="geometry">
-            <mxPoint x="15.5" y="17" as="offset"/>
+            <mxPoint x="15.5" y="6.16" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="VQfqHXgaRlEQjkRwhj_3-25" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
@@ -116,18 +113,43 @@
         <mxCell id="VQfqHXgaRlEQjkRwhj_3-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="VQfqHXgaRlEQjkRwhj_3-25">
           <mxGeometry x="45" y="120" width="10" height="410" as="geometry"/>
         </mxCell>
-        <mxCell id="VQfqHXgaRlEQjkRwhj_3-27" value="" style="curved=1;endArrow=classic;html=1;exitX=0.989;exitY=0.242;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.289;entryY=0.349;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="VQfqHXgaRlEQjkRwhj_3-25" source="VQfqHXgaRlEQjkRwhj_3-26" target="VQfqHXgaRlEQjkRwhj_3-26">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-300" y="650" as="sourcePoint"/>
-            <mxPoint x="-250" y="600" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="90" y="219"/>
-              <mxPoint x="90" y="263"/>
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VQfqHXgaRlEQjkRwhj_3-28" value="promethues&lt;br&gt;operator" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="280" y="30" width="100" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="VQfqHXgaRlEQjkRwhj_3-29" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.889;exitY=0.205;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VQfqHXgaRlEQjkRwhj_3-2" target="VQfqHXgaRlEQjkRwhj_3-25">
+          <mxGeometry x="0.6842" y="-80" relative="1" as="geometry">
+            <mxPoint x="224" y="240" as="sourcePoint"/>
+            <mxPoint x="310" y="269" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="320" y="270"/>
+              <mxPoint x="370" y="240"/>
+            </Array>
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQfqHXgaRlEQjkRwhj_3-30" value="4. generate prometheus configure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="VQfqHXgaRlEQjkRwhj_3-29">
+          <mxGeometry x="-0.7227" y="-1" relative="1" as="geometry">
+            <mxPoint x="210.31" y="9" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQfqHXgaRlEQjkRwhj_3-31" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.889;exitY=0.205;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.6842" y="-80" relative="1" as="geometry">
+            <mxPoint x="340.0000000000001" y="290.20000000000005" as="sourcePoint"/>
+            <mxPoint x="455.61" y="290" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="446.11" y="290"/>
+              <mxPoint x="496.11" y="260"/>
+            </Array>
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQfqHXgaRlEQjkRwhj_3-32" value="5. execute expression&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="VQfqHXgaRlEQjkRwhj_3-31">
+          <mxGeometry x="-0.7227" y="-1" relative="1" as="geometry">
+            <mxPoint x="184.2" y="29" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQfqHXgaRlEQjkRwhj_3-20" value="2. generate alert configure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="210" width="160" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
