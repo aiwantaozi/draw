@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-10T08:44:37.129Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="gDJgV7X399MXFcGWqChv" version="13.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-10T08:47:59.303Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="laLOg0ScmVNkg_eg1xkn" version="13.2.1" type="github">
   <diagram id="AUILRw1g-p7H_m38dy_H" name="Page-1">
     <mxGraphModel dx="1186" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
@@ -11,13 +11,13 @@
           <mxGeometry x="70" y="304" width="126.98" height="110" as="geometry" />
         </mxCell>
         <mxCell id="DOYagENMo1T1TxlhpTYe-7" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="25" width="570" height="125" as="geometry" />
+          <mxGeometry x="350" y="25" width="730" height="125" as="geometry" />
         </mxCell>
         <mxCell id="DOYagENMo1T1TxlhpTYe-8" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="50" width="540" height="80" as="geometry" />
+          <mxGeometry x="360" y="50" width="710" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DOYagENMo1T1TxlhpTYe-9" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="80" width="280" height="50" as="geometry" />
+          <mxGeometry x="390" y="80" width="370" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DOYagENMo1T1TxlhpTYe-10" value="node exporter" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="100" width="80" height="30" as="geometry" />
@@ -29,13 +29,13 @@
           <mxGeometry x="570" y="100" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DOYagENMo1T1TxlhpTYe-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="80" width="170" height="50" as="geometry" />
+          <mxGeometry x="780" y="80" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DOYagENMo1T1TxlhpTYe-15" value="node exporter" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="100" width="80" height="30" as="geometry" />
+          <mxGeometry x="780" y="100" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DOYagENMo1T1TxlhpTYe-16" value="cAdvisor" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="100" width="80" height="30" as="geometry" />
+          <mxGeometry x="870" y="100" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DOYagENMo1T1TxlhpTYe-17" value="1.6容器云" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="25" width="90" height="20" as="geometry" />
@@ -44,10 +44,55 @@
           <mxGeometry x="590" y="50" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DOYagENMo1T1TxlhpTYe-19" value="主机1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="80" width="40" height="20" as="geometry" />
+          <mxGeometry x="555" y="77.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DOYagENMo1T1TxlhpTYe-20" value="主机2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="80" width="40" height="20" as="geometry" />
+          <mxGeometry x="900" y="77.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DOYagENMo1T1TxlhpTYe-21" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="570" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="DOYagENMo1T1TxlhpTYe-22" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="225" width="540" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DOYagENMo1T1TxlhpTYe-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="255" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DOYagENMo1T1TxlhpTYe-24" value="node exporter" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="275" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOYagENMo1T1TxlhpTYe-25" value="Kubelet" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="275" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOYagENMo1T1TxlhpTYe-26" value="kube-state" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="275" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOYagENMo1T1TxlhpTYe-27" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="255" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DOYagENMo1T1TxlhpTYe-28" value="node exporter" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="275" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOYagENMo1T1TxlhpTYe-29" value="Kubelet" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="275" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOYagENMo1T1TxlhpTYe-30" value="2.x容器云" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="200" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DOYagENMo1T1TxlhpTYe-31" value="环境Env1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="225" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DOYagENMo1T1TxlhpTYe-32" value="主机1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="255" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DOYagENMo1T1TxlhpTYe-33" value="主机2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="255" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DOYagENMo1T1TxlhpTYe-34" value="Blackbox" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOYagENMo1T1TxlhpTYe-35" value="Blackbox" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="100" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
