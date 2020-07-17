@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-17T03:07:56.603Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="2y7dRFU34Jc1e6XowiyL" version="13.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-17T03:09:53.291Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="8BhPk6NR6zJ-Nw0Mh02u" version="13.4.5" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1833" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -23,22 +23,22 @@
             <mxPoint x="-355" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-66" value="connect to&#xa;/v3/connect" style="" vertex="1" parent="4">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-66" value="connect to&#xa;/v3/connect" style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="4">
           <mxGeometry x="80" y="210" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-67" value="get agent config from&#xa; /v3/connect/config" style="" vertex="1" parent="4">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-67" value="get agent config from&#xa; /v3/connect/config" style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="4">
           <mxGeometry x="80" y="310" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-68" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="4" source="Nvh7TqMCfOIsHcsC9H2H-66" target="Nvh7TqMCfOIsHcsC9H2H-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-71" value="deploy portListener&#xa;to check port available for&#xa;etcd, control plane and worker" style="" vertex="1" parent="4">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-71" value="deploy portListener&#xa;to check port available for&#xa;etcd, control plane and worker" style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="4">
           <mxGeometry x="55" y="383" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-72" value="deploy rke-port-checker&#xa;to test connectivity between&#xa;etcd, control plane, worker" style="" vertex="1" parent="4">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-72" value="deploy rke-port-checker&#xa;to test connectivity between&#xa;etcd, control plane, worker" style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="4">
           <mxGeometry x="57.5" y="470" width="155" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-73" value="deploy kubernetes certificates &#xa;to cluster nodes" style="" vertex="1" parent="4">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-73" value="deploy kubernetes certificates &#xa;to cluster nodes" style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="4">
           <mxGeometry x="80" y="560" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-74" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4" source="Nvh7TqMCfOIsHcsC9H2H-67" target="Nvh7TqMCfOIsHcsC9H2H-71">
@@ -59,34 +59,34 @@
             <mxPoint x="-300" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-77" value="deploy kube api&#xa;webhook configure file" style="" vertex="1" parent="4">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-77" value="deploy kube api&#xa;webhook configure file" style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="4">
           <mxGeometry x="80" y="630" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-78" value="start etcd&#xa;headlthcheck&#xa;rke-log-linker" style="" vertex="1" parent="4">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-78" value="start etcd&#xa;headlthcheck&#xa;rke-log-linker" style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="4">
           <mxGeometry x="80" y="720" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-79" value="start kube-apiserver&#xa;headlthcheck&#xa;rke-log-linker" style="" vertex="1" parent="4">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-79" value="start kube-apiserver&#xa;headlthcheck&#xa;rke-log-linker" style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="4">
           <mxGeometry x="80" y="830" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-80" value="start kube-controller-manager&#xa;headlthcheck&#xa;rke-log-linker" style="" vertex="1" parent="4">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-80" value="start kube-controller-manager&#xa;headlthcheck&#xa;rke-log-linker" style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="4">
           <mxGeometry x="55" y="900" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-81" value="start kube-scheduler&#xa;headlthcheck&#xa;rke-log-linker" style="" vertex="1" parent="4">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-81" value="start kube-scheduler&#xa;headlthcheck&#xa;rke-log-linker" style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="4">
           <mxGeometry x="55" y="980" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-82" value="init job-deployer role " style="" vertex="1" parent="4">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-82" value="init job-deployer role " style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="4">
           <mxGeometry x="55" y="1060" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-83" value="init node, &#xa;kube-apiserver proxy role" style="" vertex="1" parent="4">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-83" value="init node, &#xa;kube-apiserver proxy role" style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="4">
           <mxGeometry x="55" y="1150" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-85" value="start kubelet&#xa;headlthcheck&#xa;rke-log-linker" style="" vertex="1" parent="4">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-85" value="start kubelet&#xa;headlthcheck&#xa;rke-log-linker" style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="4">
           <mxGeometry x="55" y="1330" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-86" value="start kube-proxy&#xa;headlthcheck&#xa;rke-log-linker" style="" vertex="1" parent="4">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-86" value="start kube-proxy&#xa;headlthcheck&#xa;rke-log-linker" style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="4">
           <mxGeometry x="55" y="1240" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-110" value="deploy addons" style="" vertex="1" parent="4">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-110" value="deploy addons" style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="4">
           <mxGeometry x="55" y="1420" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-114" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4" source="Nvh7TqMCfOIsHcsC9H2H-73" target="Nvh7TqMCfOIsHcsC9H2H-77">
@@ -166,7 +166,7 @@
             <mxPoint x="115" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8" value="Create cluster object&#xa;Create project object" style="" parent="2" vertex="1">
+        <mxCell id="8" value="Create cluster object&#xa;Create project object" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="2" vertex="1">
           <mxGeometry x="60" y="170" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="2" source="Nvh7TqMCfOIsHcsC9H2H-47" target="8" edge="1">
@@ -175,16 +175,16 @@
             <mxPoint x="115" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10" value="init creator role" style="" parent="2" vertex="1">
+        <mxCell id="10" value="init creator role" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="2" vertex="1">
           <mxGeometry x="60" y="240" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="11" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="8" target="10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-42" value="create node object" style="" vertex="1" parent="2">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-42" value="create node object" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="2">
           <mxGeometry x="60" y="440" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-41" value="rancher server&#xa;serve in&#xa;/v3/connect" style="" vertex="1" parent="2">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-41" value="rancher server&#xa;serve in&#xa;/v3/connect" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="2">
           <mxGeometry x="60" y="310" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-43" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="2" source="Nvh7TqMCfOIsHcsC9H2H-41" target="Nvh7TqMCfOIsHcsC9H2H-42">
@@ -196,7 +196,7 @@
             <mxPoint x="125" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-47" value="Create Cluster" style="" vertex="1" parent="2">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-47" value="Create Cluster" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="2">
           <mxGeometry x="60" y="100" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Cluster-Agent" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
@@ -210,28 +210,28 @@
             <mxPoint x="115" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="15" value="run command &#xa;add custom node" style="" parent="3" vertex="1">
+        <mxCell id="15" value="run command &#xa;add custom node" style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="3" vertex="1">
           <mxGeometry x="80" y="100" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="16" value="connect to&#xa;/v3/connect/register" style="" parent="3" vertex="1">
+        <mxCell id="16" value="connect to&#xa;/v3/connect/register" style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="3" vertex="1">
           <mxGeometry x="80" y="170" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="17" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="3" source="15" target="16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="18" value="authorise&#xa;connection" style="" parent="3" vertex="1">
+        <mxCell id="18" value="authorise&#xa;connection" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="3" vertex="1">
           <mxGeometry x="80" y="370" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="19" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="3" source="16" target="18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-49" value="send node info&#xa;to server" style="" vertex="1" parent="3">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-49" value="send node info&#xa;to server" style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="3">
           <mxGeometry x="80" y="440" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-51" value="create crd&#xa;prometheus&#xa;alertmanagers&#xa;..." style="" vertex="1" parent="3">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-51" value="create crd&#xa;prometheus&#xa;alertmanagers&#xa;..." style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="3">
           <mxGeometry x="80" y="510" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-55" value="starting controllers" style="" vertex="1" parent="3">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-55" value="starting controllers" style="fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="3">
           <mxGeometry x="80" y="600" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-62" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="18" target="Nvh7TqMCfOIsHcsC9H2H-49">
