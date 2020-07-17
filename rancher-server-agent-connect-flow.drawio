@@ -1,111 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-07-17T02:48:30.637Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="hsODJ_YgFEUiEiJkUULZ" version="13.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-17T03:02:00.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="iVOjCsHuGNfj312sd1sR" version="13.4.5" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="2066" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Rancher Server" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="150" y="30" width="280" height="840" as="geometry" />
-        </mxCell>
-        <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="2" vertex="1">
-          <mxGeometry x="100" y="40" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="2" source="5" edge="1">
-          <mxGeometry x="100" y="40" as="geometry">
-            <mxPoint x="115" y="100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8" value="Create cluster object&#xa;Create project object" style="" parent="2" vertex="1">
-          <mxGeometry x="60" y="190" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="9" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="2" source="Nvh7TqMCfOIsHcsC9H2H-47" target="8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="115" y="180" as="sourcePoint" />
-            <mxPoint x="115" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="10" value="init creator role" style="" parent="2" vertex="1">
-          <mxGeometry x="60" y="280" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="11" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="8" target="10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-42" value="create node object" style="" vertex="1" parent="2">
-          <mxGeometry x="60" y="440" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-41" value="rancher server&#xa;serve in&#xa;/v3/connect" style="" vertex="1" parent="2">
-          <mxGeometry x="60" y="360" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-43" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="2" source="Nvh7TqMCfOIsHcsC9H2H-41" target="Nvh7TqMCfOIsHcsC9H2H-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-46" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2" source="10" target="Nvh7TqMCfOIsHcsC9H2H-41">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="125" y="280" as="sourcePoint" />
-            <mxPoint x="125" y="335" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-47" value="Create Cluster" style="" vertex="1" parent="2">
-          <mxGeometry x="60" y="100" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="3" value="Cluster-Agent" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="430" y="30" width="280" height="800" as="geometry" />
-        </mxCell>
-        <mxCell id="13" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="3" vertex="1">
-          <mxGeometry x="120" y="40" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="14" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0" parent="3" source="13" target="15" edge="1">
-          <mxGeometry x="100" y="20" as="geometry">
-            <mxPoint x="115" y="90" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="15" value="run command &#xa;add custom node" style="" parent="3" vertex="1">
-          <mxGeometry x="80" y="110" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="16" value="connect to&#xa;/v3/connect/register" style="" parent="3" vertex="1">
-          <mxGeometry x="80" y="220" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="17" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="3" source="15" target="16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="18" value="authorise&#xa;connection" style="" parent="3" vertex="1">
-          <mxGeometry x="80" y="325" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="19" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="3" source="16" target="18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-49" value="send node info&#xa;to server" style="" vertex="1" parent="3">
-          <mxGeometry x="80" y="410" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-51" value="create crd&#xa;prometheus&#xa;alertmanagers&#xa;..." style="" vertex="1" parent="3">
-          <mxGeometry x="80" y="480" width="110" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-55" value="starting controllers" style="" vertex="1" parent="3">
-          <mxGeometry x="80" y="590" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-62" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="18" target="Nvh7TqMCfOIsHcsC9H2H-49">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="155" y="290" as="sourcePoint" />
-            <mxPoint x="155" y="345" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-61" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="Nvh7TqMCfOIsHcsC9H2H-49" target="Nvh7TqMCfOIsHcsC9H2H-51">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="145" y="280" as="sourcePoint" />
-            <mxPoint x="145" y="335" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-63" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="Nvh7TqMCfOIsHcsC9H2H-51" target="Nvh7TqMCfOIsHcsC9H2H-55">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="165" y="300" as="sourcePoint" />
-            <mxPoint x="170" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4" value="Node-Agent" style="swimlane;whiteSpace=wrap;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="710" y="30" width="280" height="1540" as="geometry" />
+          <mxGeometry x="710" y="30" width="280" height="1520" as="geometry">
+            <mxRectangle x="710" y="30" width="100" height="23" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-64" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="4">
-          <mxGeometry x="80" y="60" width="30" height="30" as="geometry" />
+          <mxGeometry x="120" y="50" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-65" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="4" source="Nvh7TqMCfOIsHcsC9H2H-64" target="Nvh7TqMCfOIsHcsC9H2H-66">
           <mxGeometry x="-370" y="10" as="geometry">
@@ -113,22 +18,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-66" value="connect to&#xa;/v3/connect" style="" vertex="1" parent="4">
-          <mxGeometry x="40" y="130" width="110" height="50" as="geometry" />
+          <mxGeometry x="80" y="210" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-67" value="get agent config from&#xa; /v3/connect/config" style="" vertex="1" parent="4">
-          <mxGeometry x="40" y="240" width="110" height="50" as="geometry" />
+          <mxGeometry x="80" y="310" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-68" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="4" source="Nvh7TqMCfOIsHcsC9H2H-66" target="Nvh7TqMCfOIsHcsC9H2H-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-71" value="deploy portListener&#xa;to check port available for&#xa;etcd, control plane and worker" style="" vertex="1" parent="4">
-          <mxGeometry x="15" y="320" width="160" height="70" as="geometry" />
+          <mxGeometry x="55" y="383" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-72" value="deploy rke-port-checker&#xa;to test connectivity between&#xa;etcd, control plane, worker" style="" vertex="1" parent="4">
-          <mxGeometry x="17.5" y="500" width="155" height="70" as="geometry" />
+          <mxGeometry x="57.5" y="480" width="155" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-73" value="deploy kubernetes certificates &#xa;to cluster nodes" style="" vertex="1" parent="4">
-          <mxGeometry x="40" y="610" width="110" height="50" as="geometry" />
+          <mxGeometry x="80" y="580" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-74" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4" source="Nvh7TqMCfOIsHcsC9H2H-67" target="Nvh7TqMCfOIsHcsC9H2H-71">
           <mxGeometry relative="1" as="geometry">
@@ -149,34 +54,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-77" value="deploy kube api&#xa;webhook configure file" style="" vertex="1" parent="4">
-          <mxGeometry x="40" y="680" width="110" height="50" as="geometry" />
+          <mxGeometry x="80" y="660" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-78" value="start etcd&#xa;headlthcheck&#xa;rke-log-linker" style="" vertex="1" parent="4">
-          <mxGeometry x="40" y="760" width="110" height="50" as="geometry" />
+          <mxGeometry x="80" y="740" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-79" value="start kube-apiserver&#xa;headlthcheck&#xa;rke-log-linker" style="" vertex="1" parent="4">
-          <mxGeometry x="40" y="830" width="110" height="50" as="geometry" />
+          <mxGeometry x="80" y="820" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-80" value="start kube-controller-manager&#xa;headlthcheck&#xa;rke-log-linker" style="" vertex="1" parent="4">
-          <mxGeometry x="30" y="910" width="160" height="50" as="geometry" />
+          <mxGeometry x="55" y="900" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-81" value="start kube-scheduler&#xa;headlthcheck&#xa;rke-log-linker" style="" vertex="1" parent="4">
-          <mxGeometry x="30" y="990" width="160" height="50" as="geometry" />
+          <mxGeometry x="55" y="980" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-82" value="init job-deployer role " style="" vertex="1" parent="4">
-          <mxGeometry x="30" y="1070" width="160" height="50" as="geometry" />
+          <mxGeometry x="55" y="1060" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-83" value="init node, &#xa;kube-apiserver proxy role" style="" vertex="1" parent="4">
-          <mxGeometry x="30" y="1150" width="160" height="50" as="geometry" />
+          <mxGeometry x="55" y="1150" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-85" value="start kubelet&#xa;headlthcheck&#xa;rke-log-linker" style="" vertex="1" parent="4">
-          <mxGeometry x="30" y="1320" width="160" height="50" as="geometry" />
+          <mxGeometry x="55" y="1330" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-86" value="start kube-proxy&#xa;headlthcheck&#xa;rke-log-linker" style="" vertex="1" parent="4">
-          <mxGeometry x="30" y="1240" width="160" height="50" as="geometry" />
+          <mxGeometry x="55" y="1240" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-110" value="deploy addons" style="" vertex="1" parent="4">
-          <mxGeometry x="30" y="1400" width="160" height="50" as="geometry" />
+          <mxGeometry x="55" y="1420" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nvh7TqMCfOIsHcsC9H2H-114" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4" source="Nvh7TqMCfOIsHcsC9H2H-73" target="Nvh7TqMCfOIsHcsC9H2H-77">
           <mxGeometry relative="1" as="geometry">
@@ -238,13 +143,110 @@
             <mxPoint x="130" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-56" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="16" target="Nvh7TqMCfOIsHcsC9H2H-41">
+        <mxCell id="2" value="Rancher Server" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="150" y="30" width="280" height="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="2" vertex="1">
+          <mxGeometry x="100" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="2" source="5" edge="1">
+          <mxGeometry x="100" y="40" as="geometry">
+            <mxPoint x="115" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="Create cluster object&#xa;Create project object" style="" parent="2" vertex="1">
+          <mxGeometry x="60" y="170" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="2" source="Nvh7TqMCfOIsHcsC9H2H-47" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="180" as="sourcePoint" />
+            <mxPoint x="115" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="init creator role" style="" parent="2" vertex="1">
+          <mxGeometry x="60" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="8" target="10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-42" value="create node object" style="" vertex="1" parent="2">
+          <mxGeometry x="60" y="440" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-41" value="rancher server&#xa;serve in&#xa;/v3/connect" style="" vertex="1" parent="2">
+          <mxGeometry x="60" y="310" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-43" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="2" source="Nvh7TqMCfOIsHcsC9H2H-41" target="Nvh7TqMCfOIsHcsC9H2H-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-46" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2" source="10" target="Nvh7TqMCfOIsHcsC9H2H-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="280" as="sourcePoint" />
+            <mxPoint x="125" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-47" value="Create Cluster" style="" vertex="1" parent="2">
+          <mxGeometry x="60" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Cluster-Agent" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="430" y="30" width="280" height="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="3" vertex="1">
+          <mxGeometry x="120" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0" parent="3" source="13" target="15" edge="1">
+          <mxGeometry x="100" y="20" as="geometry">
+            <mxPoint x="115" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="run command &#xa;add custom node" style="" parent="3" vertex="1">
+          <mxGeometry x="80" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="connect to&#xa;/v3/connect/register" style="" parent="3" vertex="1">
+          <mxGeometry x="80" y="170" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="3" source="15" target="16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="authorise&#xa;connection" style="" parent="3" vertex="1">
+          <mxGeometry x="80" y="370" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="3" source="16" target="18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-49" value="send node info&#xa;to server" style="" vertex="1" parent="3">
+          <mxGeometry x="80" y="440" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-51" value="create crd&#xa;prometheus&#xa;alertmanagers&#xa;..." style="" vertex="1" parent="3">
+          <mxGeometry x="80" y="510" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-55" value="starting controllers" style="" vertex="1" parent="3">
+          <mxGeometry x="80" y="600" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-62" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="18" target="Nvh7TqMCfOIsHcsC9H2H-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="290" as="sourcePoint" />
+            <mxPoint x="155" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-61" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="Nvh7TqMCfOIsHcsC9H2H-49" target="Nvh7TqMCfOIsHcsC9H2H-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="280" as="sourcePoint" />
+            <mxPoint x="145" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-63" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="Nvh7TqMCfOIsHcsC9H2H-51" target="Nvh7TqMCfOIsHcsC9H2H-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="300" as="sourcePoint" />
+            <mxPoint x="170" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-56" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="16" target="Nvh7TqMCfOIsHcsC9H2H-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="275" y="260" as="sourcePoint" />
             <mxPoint x="320" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-59" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#a20025;strokeColor=#FF3333;" edge="1" parent="1" source="Nvh7TqMCfOIsHcsC9H2H-41" target="18">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-59" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#a20025;strokeColor=#FF3333;" edge="1" parent="1" source="Nvh7TqMCfOIsHcsC9H2H-41" target="18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="420" as="sourcePoint" />
             <mxPoint x="440" y="380" as="targetPoint" />
@@ -260,12 +262,16 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="575" y="200" as="sourcePoint" />
             <mxPoint x="575" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="265" />
+              <mxPoint x="750" y="365" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-122" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nvh7TqMCfOIsHcsC9H2H-67" target="Nvh7TqMCfOIsHcsC9H2H-41">
+        <mxCell id="Nvh7TqMCfOIsHcsC9H2H-122" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nvh7TqMCfOIsHcsC9H2H-67" target="Nvh7TqMCfOIsHcsC9H2H-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="195" as="sourcePoint" />
-            <mxPoint x="330" y="425" as="targetPoint" />
+            <mxPoint x="320" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
