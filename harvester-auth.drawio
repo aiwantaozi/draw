@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T13:02:24.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Fy2aDhojBWJN139YtjZI" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T13:03:39.171Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="wpjkvHAbYF7ObAKXiwHz" version="13.7.3" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1213" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="7baba1c4bc27f4b0-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-8" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-23" value="5. response jwe token" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;exitX=-0.278;exitY=0.397;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-10" edge="1">
+        <mxCell id="7baba1c4bc27f4b0-23" value="5. response JWE token" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;exitX=-0.278;exitY=0.397;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="412" as="sourcePoint" />
             <mxPoint x="158" y="412" as="targetPoint" />
@@ -99,12 +99,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XttoN6E2yqydup3tI62v-6" value="4.use authInfo to generate jwe" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XttoN6E2yqydup3tI62v-3">
+        <mxCell id="XttoN6E2yqydup3tI62v-6" value="4.use authInfo to generate JWE token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XttoN6E2yqydup3tI62v-3">
           <mxGeometry x="-0.649" y="-1" relative="1" as="geometry">
             <mxPoint x="101.01" y="44.78999999999999" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XttoN6E2yqydup3tI62v-13" value="1. access with jwe token" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.4;entryY=0.584;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.539;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7baba1c4bc27f4b0-9">
+        <mxCell id="XttoN6E2yqydup3tI62v-13" value="1. access with JWE token" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.4;entryY=0.584;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.539;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7baba1c4bc27f4b0-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="510" as="sourcePoint" />
             <mxPoint x="311" y="509.88" as="targetPoint" />
@@ -126,7 +126,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XttoN6E2yqydup3tI62v-16" value="2. decode authInfo from jwe token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XttoN6E2yqydup3tI62v-15">
+        <mxCell id="XttoN6E2yqydup3tI62v-16" value="2. decode authInfo from JWE token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XttoN6E2yqydup3tI62v-15">
           <mxGeometry x="-0.649" y="-1" relative="1" as="geometry">
             <mxPoint x="101.01" y="44.78999999999999" as="offset" />
           </mxGeometry>
@@ -196,9 +196,6 @@
           <mxGeometry x="0.6848" y="1" relative="1" as="geometry">
             <mxPoint x="39" y="22" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="XttoN6E2yqydup3tI62v-31" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="660" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XttoN6E2yqydup3tI62v-32" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Access API with JWE token&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="600" width="250" height="55" as="geometry" />
