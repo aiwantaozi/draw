@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T10:22:22.921Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="LlpWY1ZJYIsOzHCnQp59" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T10:25:09.574Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="w1SG_VgbsL-SfrpRJqUF" version="14.1.9" type="github">
   <diagram id="D_YZCM6XXAJiiEe0FrGk" name="Page-1">
     <mxGraphModel dx="1213" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-53" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="730" height="700" as="geometry" />
+        </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-49" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="382" y="100" width="398" height="590" as="geometry" />
         </mxCell>
@@ -155,6 +158,9 @@
             <mxPoint x="460" y="440" as="sourcePoint" />
             <mxPoint x="510" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-54" value="Kubernetes Cluster 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="720" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
