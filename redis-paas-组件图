@@ -1,14 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T10:25:29.005Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="cZIk31ZeOcHoxRlVJQdH" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T10:57:53.827Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="QombKG0izYHhP8i5YKzK" version="14.1.9" type="github">
   <diagram id="D_YZCM6XXAJiiEe0FrGk" name="Page-1">
     <mxGraphModel dx="1213" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-55" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="50" width="430" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-69" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="638" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-68" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="610" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-67" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="180" width="150" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-66" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="163.5" width="150" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-62" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Sentinel Redis 2" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="141.76" width="150" height="47" as="geometry" />
+        </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-53" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="50" width="730" height="700" as="geometry" />
+          <mxGeometry x="80" y="50" width="730" height="880" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-49" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="382" y="100" width="398" height="590" as="geometry" />
+          <mxGeometry x="380" y="100" width="398" height="590" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-47" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="168" width="300" height="170" as="geometry" />
@@ -28,7 +46,7 @@
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-4" value="Redis-PAAS UI&lt;br&gt;Deployment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-5" value="管理组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-5" value="Redis PAAS &lt;br&gt;管理组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="459" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-8" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
@@ -53,7 +71,7 @@
           <mxGeometry x="630" y="197" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-17" value="Sentinel Redis 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="287" width="90" height="20" as="geometry" />
+          <mxGeometry x="483" y="287" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-18" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="377" width="270" height="183" as="geometry" />
@@ -62,7 +80,7 @@
           <mxGeometry x="435" y="384.75" width="115" height="40.25" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-25" value="Clustered Redis1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="540" width="100" height="20" as="geometry" />
+          <mxGeometry x="483" y="536.48" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-26" value="Redis Shard1 Master StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="485" width="115" height="40" as="geometry" />
@@ -145,16 +163,76 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-46" value="Clustered Redis2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="473" y="568" width="100" height="20" as="geometry" />
+          <mxGeometry x="510" y="568" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-48" value="Sentinel Redis 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="472" y="317" width="90" height="20" as="geometry" />
+          <mxGeometry x="525" y="318" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-50" value="用户组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="660" width="90" height="20" as="geometry" />
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-50" value="用户Redis PAAS服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="660" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-54" value="Kubernetes Cluster 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="720" width="120" height="20" as="geometry" />
+          <mxGeometry x="150" y="890" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-56" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="270" width="160" height="173.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-57" value="Redis PAAS &lt;br&gt;管理组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="942" y="390" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-58" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Sentinel Redis 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="80" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-59" value="管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-60" value="管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="315" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-70" value="&lt;font style=&quot;font-size: 25px&quot;&gt;Rancher&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="750" width="1125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-71" value="Kubernetes Cluster 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="880" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-72" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="281.8" width="28" height="23.52" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-73" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="311.48" width="28" height="23.52" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-74" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="453" y="533.48" width="28" height="23.52" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-75" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="481" y="564.48" width="28" height="23.52" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-76" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="570" y="762.68" width="100" height="44.64" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-77" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1032" y="103.24000000000002" width="28" height="23.52" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-78" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1072" y="154.00000000000003" width="28" height="23.52" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-83" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1080" y="580" width="160" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-64" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Clustered Redis 2" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="nfFl2He2dXkRPA9u8HgZ-83">
+          <mxGeometry width="160" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-82" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" vertex="1" parent="nfFl2He2dXkRPA9u8HgZ-83">
+          <mxGeometry x="12" y="16.480000000000018" width="28" height="23.52" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-85" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1032" y="525" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-65" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Clustered Redis 1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="nfFl2He2dXkRPA9u8HgZ-85">
+          <mxGeometry width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-81" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" vertex="1" parent="nfFl2He2dXkRPA9u8HgZ-85">
+          <mxGeometry x="12" y="23.24000000000001" width="28" height="23.52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
