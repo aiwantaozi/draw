@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T11:05:50.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="q4NdehGNLvT6EyH4iVC9" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T11:06:03.702Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="jxObFE8rfFdMNtnYAzAj" version="14.1.9" type="github">
   <diagram id="D_YZCM6XXAJiiEe0FrGk" name="Page-1">
     <mxGraphModel dx="2022" dy="1242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -174,7 +174,7 @@
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-56" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="270" width="160" height="173.5" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-57" value="Redis PAAS &lt;br&gt;管理组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-57" value="Redis PAAS &lt;br style=&quot;font-size: 14px;&quot;&gt;管理组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="947" y="390" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-58" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Sentinel Redis 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
@@ -240,7 +240,7 @@
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-94" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="436.33" width="48" height="42.35" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-95" value="Redis PAAS &lt;br&gt;管理组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-95" value="Redis PAAS &lt;br style=&quot;font-size: 14px;&quot;&gt;管理组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="203" y="447.5" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-96" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;dashed=1;" vertex="1" parent="1">
