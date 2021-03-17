@@ -1,37 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T11:08:02.110Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="SJiW7gRYHhWhLg4hOMlj" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T11:12:55.139Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ygYevPuBufTeEZG7iDWs" version="14.1.9" type="github">
   <diagram id="D_YZCM6XXAJiiEe0FrGk" name="Page-1">
-    <mxGraphModel dx="2022" dy="1242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1310" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-55" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="50" width="560" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-69" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-69" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1258" y="603" width="150" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-68" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-68" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1238" y="575" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-67" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-67" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1206" y="220" width="150" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-66" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-66" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1186" y="193.5" width="150" height="47" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-53" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="50" width="730" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-49" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-49" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="380" y="100" width="398" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-47" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-47" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="450" y="168" width="300" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-45" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-45" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="450" y="405" width="270" height="183" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="190" height="330" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-2" value="Redis-Operator&lt;br&gt;Deployment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -43,52 +43,52 @@
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-4" value="Redis-PAAS UI&lt;br&gt;Deployment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-8" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-8" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="420" y="137" width="300" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-9" value="Redis Slave StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-9" value="Redis Slave StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="510" y="240" width="70" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-12" value="Redis Master StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-12" value="Redis Master StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="450" y="172" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-13" value="Redis Slave StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-13" value="Redis Slave StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="430" y="240" width="70" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-14" value="Sentinel StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-14" value="Sentinel StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="630" y="157" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-15" value="Sentinel StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-15" value="Sentinel StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="630" y="237" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-16" value="Sentinel StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-16" value="Sentinel StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="630" y="197" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-17" value="Sentinel Redis 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="483" y="287" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-18" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-18" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="420" y="377" width="270" height="183" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-20" value="Redis Shard1 Master StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-20" value="Redis Shard1 Master StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="435" y="384.75" width="115" height="40.25" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-25" value="Clustered Redis1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="483" y="536.48" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-26" value="Redis Shard1 Master StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-26" value="Redis Shard1 Master StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="435" y="485" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-27" value="Redis Shard1 Master StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-27" value="Redis Shard1 Master StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="435" y="434" width="115" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-28" value="Redis Shard1 Slave StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-28" value="Redis Shard1 Slave StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="572" y="393.5" width="98" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-29" value="Redis Shard1 Slave StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-29" value="Redis Shard1 Slave StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="572" y="493" width="98" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-30" value="Redis Shard1 Slave StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-30" value="Redis Shard1 Slave StatefulSet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="572" y="443.5" width="98" height="24" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-31" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -127,11 +127,6 @@
             <mxPoint x="480" y="367" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-41" value="monitor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nfFl2He2dXkRPA9u8HgZ-38">
-          <mxGeometry x="0.0652" relative="1" as="geometry">
-            <mxPoint y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-39" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nfFl2He2dXkRPA9u8HgZ-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="182" as="sourcePoint" />
@@ -168,7 +163,7 @@
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-54" value="Kubernetes Cluster 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="414" y="886" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-56" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-56" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="910" y="270" width="160" height="173.5" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-57" value="Redis PAAS &lt;br style=&quot;font-size: 14px;&quot;&gt;管理组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
@@ -180,7 +175,7 @@
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-60" value="管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="315" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-70" value="&lt;font style=&quot;font-size: 25px&quot;&gt;Rancher&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-70" value="&lt;font style=&quot;font-size: 25px&quot;&gt;Rancher&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="155" y="750" width="1235" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-71" value="Kubernetes Cluster 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
@@ -204,7 +199,7 @@
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-83" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1198" y="545" width="160" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-64" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Clustered Redis 2" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="nfFl2He2dXkRPA9u8HgZ-83">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-64" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Clustered Redis 2" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="nfFl2He2dXkRPA9u8HgZ-83">
           <mxGeometry width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-82" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" vertex="1" parent="nfFl2He2dXkRPA9u8HgZ-83">
@@ -213,7 +208,7 @@
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-85" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1150" y="490" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-65" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Clustered Redis 1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="nfFl2He2dXkRPA9u8HgZ-85">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-65" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Clustered Redis 1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="nfFl2He2dXkRPA9u8HgZ-85">
           <mxGeometry width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-81" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" vertex="1" parent="nfFl2He2dXkRPA9u8HgZ-85">
@@ -249,23 +244,26 @@
             <mxPoint x="438" y="242" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-103" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-104" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1166" y="171.76" width="150" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-62" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Sentinel Redis 2" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="nfFl2He2dXkRPA9u8HgZ-104">
+          <mxGeometry width="150" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-78" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" vertex="1" parent="nfFl2He2dXkRPA9u8HgZ-104">
+          <mxGeometry x="12" y="12.240000000000038" width="28" height="23.52" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-103" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1126" y="110" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-58" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Sentinel Redis 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="nfFl2He2dXkRPA9u8HgZ-103">
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-58" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Sentinel Redis 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="nfFl2He2dXkRPA9u8HgZ-103">
           <mxGeometry width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-77" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" vertex="1" parent="nfFl2He2dXkRPA9u8HgZ-103">
           <mxGeometry x="12" y="23.240000000000023" width="28" height="23.52" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-104" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1166" y="171.76" width="150" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-62" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Sentinel Redis 2" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="nfFl2He2dXkRPA9u8HgZ-104">
-          <mxGeometry width="150" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-78" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" vertex="1" parent="nfFl2He2dXkRPA9u8HgZ-104">
-          <mxGeometry x="12" y="12.240000000000038" width="28" height="23.52" as="geometry" />
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-106" value="监控" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="575" y="157" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
