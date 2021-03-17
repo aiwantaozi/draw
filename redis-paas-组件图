@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T10:57:53.827Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="QombKG0izYHhP8i5YKzK" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T11:04:09.800Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="E-d6mGaqx_Vs2xya9fBL" version="14.1.9" type="github">
   <diagram id="D_YZCM6XXAJiiEe0FrGk" name="Page-1">
-    <mxGraphModel dx="1213" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1733" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,9 +45,6 @@
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-4" value="Redis-PAAS UI&lt;br&gt;Deployment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-5" value="Redis PAAS &lt;br&gt;管理组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="459" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-8" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="137" width="300" height="170" as="geometry" />
@@ -171,8 +168,8 @@
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-50" value="用户Redis PAAS服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="660" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-54" value="Kubernetes Cluster 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="890" width="120" height="20" as="geometry" />
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-54" value="Kubernetes Cluster 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="414" y="886" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-56" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="270" width="160" height="173.5" as="geometry" />
@@ -192,8 +189,8 @@
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-70" value="&lt;font style=&quot;font-size: 25px&quot;&gt;Rancher&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="750" width="1125" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nfFl2He2dXkRPA9u8HgZ-71" value="Kubernetes Cluster 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="880" width="120" height="20" as="geometry" />
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-71" value="Kubernetes Cluster 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="880" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-72" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="281.8" width="28" height="23.52" as="geometry" />
@@ -233,6 +230,21 @@
         </mxCell>
         <mxCell id="nfFl2He2dXkRPA9u8HgZ-81" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" vertex="1" parent="nfFl2He2dXkRPA9u8HgZ-85">
           <mxGeometry x="12" y="23.24000000000001" width="28" height="23.52" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-86" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="872" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-87" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="866" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-94" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="436.33" width="48" height="42.35" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-95" value="Redis PAAS &lt;br&gt;管理组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="203" y="447.5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nfFl2He2dXkRPA9u8HgZ-96" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="963" y="330" width="48" height="42.35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
